@@ -7,10 +7,10 @@ Sebuah aplikasi web berbasis PHP dan MySQL yang dirancang untuk mengelola keselu
 Berikut adalah beberapa tampilan utama dari aplikasi ini.
 
 **1. Dashboard Utama**
-![Dashboard Utama](Screenshot%%2025-06-28%%234442.png)
+![Dashboard Utama](Screenshot%2025-06-28%234442.png)
 
 **2. Halaman Manajemen Petugas**
-![Manajemen Petugas](Screenshot%%2025-06-29%%000333.png)
+![Manajemen Petugas](Screenshot%2025-06-29%000333.png)
 
 ## Fitur Utama (Features)
 
